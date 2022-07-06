@@ -1,0 +1,15 @@
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/bin/Debug/net6.0/Task 2
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/bin/Debug/net6.0/Task 2.deps.json
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/bin/Debug/net6.0/Task 2.runtimeconfig.json
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/bin/Debug/net6.0/Task 2.dll
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/bin/Debug/net6.0/Task 2.pdb
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/Task 2.csproj.AssemblyReference.cache
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/Task 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/Task 2.AssemblyInfoInputs.cache
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/Task 2.AssemblyInfo.cs
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/Task 2.csproj.CoreCompileInputs.cache
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/Task 2.dll
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/refint/Task 2.dll
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/Task 2.pdb
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/Task 2.genruntimeconfig.cache
+/Users/anastasiadrozdova/Documents/Семинары/ДЗ № 7/Homework_7/Task 2/obj/Debug/net6.0/ref/Task 2.dll
